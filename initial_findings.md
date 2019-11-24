@@ -6,26 +6,26 @@ For the next part of our project, we have several ideas in mind in order to impr
 ### Mean Squared Errors (Test 1)
 | Model | Mean Squared Errors |
 | ------ | ------ |
-| Random Forest | 2277213.9584400184 |
-| Bagging Regressor | 2407683.8246591794 |
-| Gradient Boosting | 2494510.481743744 |
-| Ada Boost Regressor | 13037104.883150602 |
-| KNN | 3089202.84534 |
-| Voting Regressor | 2825763.102669967 |
-| Linear Regression | 3673665.713656922 |
-| Randomized Search CV | 2265744.850203952 |
-| Randomized Search CV (Best Params) | 2265744.850203952 |
+| Random Forest | 570364.2794636443|
+| Bagging Regressor | 447217.7302967674 |
+| Gradient Boosting | 2133050.236497565 |
+| Ada Boost Regressor | 5835605.475630233 |
+| KNN | 3197265.023415816 |
+| Voting Regressor | 1347268.2668490182 |
+| Linear Regression | 3680742.7922809115 |
+| Randomized Search CV | 2290575.5521978405 |
+| Randomized Search CV (Best Params) | 2290575.5521978405 |
 
 ### Mean Squared Errors (Test 2)
 | Model | Mean Squared Errors |
 | ------ | ------ |
-| Random Forest | 5639154.9501314275 |
-| Bagging Regressor | 5757618.244578043|
-| Gradient Boosting | 5639154.9501314275 |
-| Ada Boost Regressor | 7626525.900537087 |
-| KNN | 4588720.466078125 |
-| Voting Regressor | 4888636.134878324 |
-| Linear Regression | 4180217.401876736 |
-| Randomized Search CV | 5150644.87606554 |
-| Randomized Search CV (Best Params) | 5129389.225208053 |
+| Random Forest | 7469921.004313083 |
+| Bagging Regressor | 7779442.2744454695|
+| Gradient Boosting | 7469921.004313083 |
+| Ada Boost Regressor | 12070655.83057286 |
+| KNN | 5121476.26826033 |
+| Voting Regressor | 6096437.819029653 |
+| Linear Regression | 4765059.741542864 |
+| Randomized Search CV | 6796516.256468636|
+| Randomized Search CV (Best Params) | 6796516.256468636|
 
